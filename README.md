@@ -49,7 +49,7 @@ mc-mrc-survey/
 │   ├── leaderboards.md              # Download & leaderboard links
 ├── classification/
 │   └── taxonomy.md                  # 6-dimensional classification scheme
-├── figures/                         # Paper figures (PNG/SVG)
+├── figures/                         # Paper figures 
 └── CONTRIBUTING.md                  # How to contribute updates
 ```
 
@@ -60,7 +60,7 @@ mc-mrc-survey/
 A quick summary of the 30 datasets covered. See [`datasets/`](datasets/) for full details.
 
 | Scale | Question Size | Examples |
-|---|---|---|---|
+|---|---|---|
 | 🔴 Large | > 140k | CBT, BookTest, BioRead, BioMRC, WDW | 
 | 🟡 Mid | 40k – 140k | RACE, CliCR, CLOTH, ReCoRD, WikiHop | 
 | 🟢 Small | < 40k | DREAM, CosmosQA, ReClor, QuAIL, RULE | 
@@ -122,4 +122,3 @@ Please open an issue or pull request — see [CONTRIBUTING.md](CONTRIBUTING.md) 
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE).
->>>>>>> Initial commit: add survey repository files
